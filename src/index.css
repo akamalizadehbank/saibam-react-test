@@ -9,13 +9,14 @@ background-color:rgb(95, 94, 94);
 }
 
 .wrapper{
-  background-color: rgb(75, 156, 75);
+  /*background-color: rgb(75, 156, 75);*/
 
 
-  display: flex;
+  /*display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-between;*/
   min-height :calc(89vh);
+
  
 }
 
