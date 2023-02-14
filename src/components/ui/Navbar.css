@@ -1,0 +1,14 @@
+.NavbarRight{
+    direction: rtl;
+   }
+
+.navbar-logo-icon{
+    margin: 0.5;   
+    font-size: 8;
+    color: crimson;
+}
+.navbar-logo-text{
+    margin: 0.5;
+    font-size: 1.6;
+    color: crimson;
+}

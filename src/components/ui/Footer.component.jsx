@@ -1,11 +1,13 @@
 import React from "react";
+import './Footer.css'
 const FooterComponent = () => {
     return (
-        <div>
-            <h1>
-                FooterComponent
-            </h1>
-        </div>
+        <footer className="footer">
+
+            <span className="d-none d-md-inline">بر پایه حساب بانکی مشتریان</span>
+
+            <span>خرید و فروش امن سهام و صندوقهای سرمایه گذاری</span>
+        </footer>
     )
 }
 
